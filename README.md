@@ -16,6 +16,7 @@ https://wiki.debian.org/TorBirdy
 
 # Headers
 
+https://lists.gnupg.org/pipermail/gnupg-devel/2015-July/030110.html
 
 https://datatracker.ietf.org/doc/draft-ietf-lamps-header-protection/
 
