@@ -10,9 +10,15 @@ https://forum.qubes-os.org/t/hardening-your-thunderbird-mail-vm-and-working-arou
 
 https://www.whonix.org/wiki/Encrypted_Email_with_Thunderbird
 
+# IP
+
+https://wiki.debian.org/TorBirdy
+
 # Headers
 
 https://gist.github.com/leela52452/8470474b21efd0df6b2136ece829cd8c
+
+https://www.ietf.org/archive/id/draft-autocrypt-lamps-protected-headers-02.html
 
 ## Subject lines
 
