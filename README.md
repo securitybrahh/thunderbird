@@ -14,6 +14,14 @@ https://www.whonix.org/wiki/Encrypted_Email_with_Thunderbird
 
 https://gist.github.com/leela52452/8470474b21efd0df6b2136ece829cd8c
 
+## Subject lines
+
+"Even though Proton Mail subject lines are not end-to end encrypted, it is exceptionally difficult for a third party to get access to them. Access would require breaching Swiss data privacy laws and getting a court order that is approved by a Swiss judge(new window).
+
+You can also use generic subject lines that disclose minimal information about the message contents."
+
+https://proton.me/support/does-protonmail-encrypt-email-subjects
+
 # User.js
 
 (Note this is just a config file, javascript is not ran IN the emails)
