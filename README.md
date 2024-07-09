@@ -22,6 +22,43 @@ You can also use generic subject lines that disclose minimal information about t
 
 https://proton.me/support/does-protonmail-encrypt-email-subjects
 
+# Spam?
+
+https://security.stackexchange.com/questions/188654/protonmail-cannot-read-my-mail-but-can-detect-if-it-is-spam
+
+"""
+
+As you hint in your third point, it's a difference if the mail is from _and_ to a Protonmal account, or if one side is an third-party server.
+
+For the cases where the sender or receiver (one of them) is not a Protonmail user, they DO read the mail, as they say themselves: [https://protonmail.com/blog/encrypted-email-spam-filtering/](https://protonmail.com/blog/encrypted-email-spam-filtering/)
+
+Part of the text there:
+> 
+> 1. First, the IP address of the incoming SMTP server is checked against spam blacklists which contain IP addresses of servers we have previously received spam from. If we receive a hit, the message is rejected.
+> 2. Secondly, the message is passed through our customized Bayesian filters which marks suspicious messages as spam.
+> 3. Next, we generate checksums of incoming messages and check them against a database of known spam messages. If there is a match, we mark the message as spam. The checksums are done in such a way that it is also effective against mutating spam emails.
+> 
+> ...
+> 
+> All this is done in memory so that by the time anything is permanently stored to disk, the email is already un-readable to us. This gives us a very limited window to perform spam filtering on incoming messages.
+> 
+> ...
+
+TL;DR. they encrypt the received mail after filtering it / filter after decrypting before sending.  
+They still say they "can't read anything" despite anything running through their spam filter is not secure from admins and developers.
+
+To be fair, even without filter the server must handle the unencrypted mail at some point, if the sender/receiver is external... but "they never can read it" is nonsense.
+
+---
+
+About internal mails from _and_ to Protonmail, I have not found a similar post - but there are (probably) some official statements on the internet.
+
+* That they factor in if receivers mark something as spam.
+* That they take care to block anyone over a treshold (unlike some mail providers who just don't care).
+* And that there is a limit how many mails can be send in a certain time (making mass spam harder).
+
+"""
+
 # User.js
 
 (Note this is just a config file, javascript is not ran IN the emails)
