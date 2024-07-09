@@ -16,6 +16,9 @@ https://wiki.debian.org/TorBirdy
 
 # Headers
 
+
+https://datatracker.ietf.org/doc/draft-ietf-lamps-header-protection/
+
 https://modernpgp.org/memoryhole/guidance/
 
 https://gist.github.com/leela52452/8470474b21efd0df6b2136ece829cd8c
