@@ -16,6 +16,8 @@ https://wiki.debian.org/TorBirdy
 
 # Headers
 
+https://modernpgp.org/memoryhole/guidance/
+
 https://gist.github.com/leela52452/8470474b21efd0df6b2136ece829cd8c
 
 https://www.ietf.org/archive/id/draft-autocrypt-lamps-protected-headers-02.html
