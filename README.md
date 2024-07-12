@@ -75,6 +75,14 @@ About internal mails from _and_ to Protonmail, I have not found a similar post -
 
 """
 
+https://support.mozilla.org/en-US/kb/thunderbirds-scam-detection
+
+# Virus
+
+https://support.mozilla.org/en-US/kb/security-panel-settings-in-thunderbird#w_antivirus-tab
+
+https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-linux
+
 # User.js
 
 (Note this is just a config file, javascript is not ran IN the emails)
