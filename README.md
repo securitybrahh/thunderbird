@@ -38,6 +38,8 @@ https://proton.me/support/does-protonmail-encrypt-email-subjects
 
 # Spam?
 
+https://simplelogin.io/docs/getting-started/anti-phishing/
+
 https://security.stackexchange.com/questions/188654/protonmail-cannot-read-my-mail-but-can-detect-if-it-is-spam
 
 """
@@ -85,4 +87,6 @@ https://r-36.net/scm/privacy-haters/file/thunderbird/user.js.html
 
 https://codeberg.org/12bytes/thunderbird-user.js-supplement
 
+# Aliasing
 
+https://forwardemail.net/en
