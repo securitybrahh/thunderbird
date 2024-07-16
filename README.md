@@ -1,5 +1,7 @@
 # thunderbird
 
+![k9 privacy settings](/images/k9.jpg)
+
 https://blog.thunderbird.net/2023/07/k-9-mail-collaborates-with-ostif-and-7asecurity-security-audit/
 
 https://wiki.gnupg.org/EMailClients/Thunderbird
