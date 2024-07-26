@@ -100,3 +100,12 @@ https://codeberg.org/12bytes/thunderbird-user.js-supplement
 # Aliasing
 
 https://forwardemail.net/en
+
+https://migadu.com/
+
+# Self host?
+
+cgnet http://he.net/cgi-bin/ip_transit_quote
+
+hetzner vps ip
+
