@@ -1,3 +1,5 @@
+is proton mail with sender pgp good enough?
+
 # thunderbird
 
 ![k9 privacy settings](/images/k9.jpg)
