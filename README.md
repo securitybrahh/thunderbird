@@ -105,6 +105,8 @@ https://migadu.com/
 
 # Self host?
 
+port forward vpn
+
 cgnet http://he.net/cgi-bin/ip_transit_quote
 
 hetzner vps ip
