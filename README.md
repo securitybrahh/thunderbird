@@ -1,4 +1,6 @@
-is proton mail with sender pgp good enough?
+https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/
+
+proton mail + sender PGP >>> (subject subject not encrypted)
 
 # thunderbird
 
