@@ -115,3 +115,6 @@ cgnet http://he.net/cgi-bin/ip_transit_quote
 
 hetzner vps ip
 
+# Annexure A
+
+https://www.betterbird.eu/
