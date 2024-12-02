@@ -1,3 +1,5 @@
+is thunderbird on firefox esr? 
+
 https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/
 
 proton mail + sender PGP >>> (subject subject not encrypted)
