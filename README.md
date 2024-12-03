@@ -1,3 +1,5 @@
+https://proton.me/support/encryption-lock-meaning
+
 is thunderbird on firefox esr? 
 
 https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/
