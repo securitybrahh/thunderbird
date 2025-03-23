@@ -2,7 +2,7 @@ https://k9mail.app/2018/02/26/OpenPGP-Considerations-Part-III-Autocrypt.html
 
 https://proton.me/support/encryption-lock-meaning
 
-is thunderbird on firefox esr? 
+"Thunderbird roughly f"ollows [behind the Firefox ESR](https://wiki.mozilla.org/Releases) (Extended Support Release) mentioned on the [calendar](https://wiki.mozilla.org/RapidRelease/Calendar). There are no rapid releases of Thunderbird." - [source](https://github.com/HorlogeSkynet/thunderbird-user.js/wiki/1.1-Overview)
 
 https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/
 
