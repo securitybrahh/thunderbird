@@ -1,3 +1,21 @@
+# fwemail + betterbird + pgp pub key as an attachment for e2ee
+
+${\textsf{\color{red}ZERO ENCRYPTION}$
+
+https://forwardemail.net/en/encrypt
+
+https://forwardemail.net/en/disposable-addresses
+
+Contacts, and calendar is zero access encrypted against your fwemail password in the sqlite database as per support. 
+
+https://forwardemail.net/en/blog/docs/why-open-source-email-security-privacy#individually-encrypted-sqlite-mailboxes:~:text=individually%20encrypted%20sqlite%20mailboxes
+
+---
+
+https://privsec.dev/posts/knowledge/setting-up-mta-sts-with-a-custom-domain-on-proton-mail/
+
+https://privsec.dev/posts/linux/slightly-improving-mailcow-security/
+
 https://k9mail.app/2018/02/26/OpenPGP-Considerations-Part-III-Autocrypt.html
 
 https://proton.me/support/encryption-lock-meaning
