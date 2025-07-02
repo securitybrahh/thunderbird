@@ -1,6 +1,6 @@
 # fwemail + betterbird + pgp pub key as an attachment for e2ee
 
-${\textsf{\color{red}ZERO ENCRYPTION}$
+${\textsf{\color{red}ZERO ENCRYPTION}}$
 
 https://forwardemail.net/en/encrypt
 
